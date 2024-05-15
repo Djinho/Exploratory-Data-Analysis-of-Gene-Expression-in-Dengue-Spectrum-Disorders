@@ -1,0 +1,45 @@
+Exploratory Data Analysis of Gene Expression in Dengue Spectrum Disorders
+Project Description:
+This project involves an in-depth exploratory analysis of gene expression data from various stages of dengue infection, utilizing the GEO dataset GDS5093. The dataset includes gene expression profiles from four distinct groups: patients with dengue fever, patients with dengue haemorrhagic fever, individuals in recovery from dengue fever, and healthy controls. The aim is to uncover unique gene expression patterns across these groups and identify potential biomarkers for dengue progression and recovery.
+
+Analysis Techniques and Results:
+
+Principal Component Analysis (PCA): Applied to reduce dimensionality and identify the main variance components in the data. The variance explained by the first ten principal components highlights significant diversity in gene expression.
+PCA Scatter Plot: Visual differentiation of disease states based on the first two principal components, illustrating distinct gene expression patterns.
+Hierarchical Cluster Analysis (HCA): Employed to group similar gene expression patterns, revealing inherent clustering and providing insights into the relationships between different disease states.
+Machine Learning Analysis:
+
+Support Vector Machine (SVM) Classification: Used to discriminate between Dengue Fever and Dengue Hemorrhagic Fever based on gene expression data. The model's performance was evaluated using accuracy metrics, a confusion matrix, bootstrap resampling for accuracy estimation, and permutation testing for statistical significance.
+Results:
+
+The PCA revealed significant variance in gene expression among the groups, indicating distinct genomic signatures for each condition.
+The SVM classifier achieved an accuracy of approximately 62.67%, with a confidence interval of 60.67% to 64.83%. However, the classification report indicated limitations in precision and recall for certain classes.
+Permutation testing suggested the observed accuracy was not statistically significant, pointing to the need for further model refinement and feature selection.
+Requirements:
+
+Python 3.x
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+SciPy
+Biopython (optional for data fetching and processing)
+Packages Used:
+
+pandas: For data manipulation and analysis.
+numpy: For numerical computing.
+matplotlib: For creating static, interactive, and animated visualizations.
+seaborn: For data visualization based on matplotlib.
+sklearn: For machine learning algorithms and data processing.
+scipy: For scientific computing and technical computing.
+bootstrapped: For bootstrap resampling.
+Installation:
+To set up the project environment, install the required packages using pip:
+
+
+pip install pandas numpy matplotlib seaborn scikit-learn scipy bootstrapped
+
+Conclusion:
+This exploratory analysis provides foundational insights into the genomic response to dengue virus infection. While preliminary, the findings lay the groundwork for more advanced analytical approaches and potential biomarker discovery, contributing to our understanding of dengue spectrum disorders.
+

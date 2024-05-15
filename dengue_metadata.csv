@@ -1,0 +1,57 @@
+,sample,infection,disease.state,disease.state.abbr,individual,description
+GSM1253056,GSM1253056,Dengue virus,Convalescent,CONV,patient 3,Value for GSM1253056: Convalescent Patient 3; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253057,GSM1253057,Dengue virus,Convalescent,CONV,patient 4,Value for GSM1253057: Convalescent Patient 4; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253058,GSM1253058,Dengue virus,Convalescent,CONV,patient 6,Value for GSM1253058: Convalescent Patient 6; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253059,GSM1253059,Dengue virus,Convalescent,CONV,patient 33,Value for GSM1253059: Convalescent Patient 33; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253060,GSM1253060,Dengue virus,Convalescent,CONV,patient 34,Value for GSM1253060: Convalescent Patient 34; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253061,GSM1253061,Dengue virus,Convalescent,CONV,patient 35,Value for GSM1253061: Convalescent Patient 35; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253062,GSM1253062,Dengue virus,Convalescent,CONV,patient 36,Value for GSM1253062: Convalescent Patient 36; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253063,GSM1253063,Dengue virus,Convalescent,CONV,patient 37,Value for GSM1253063: Convalescent Patient 37; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253064,GSM1253064,Dengue virus,Convalescent,CONV,patient 38,Value for GSM1253064: Convalescent Patient 38; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253065,GSM1253065,Dengue virus,Convalescent,CONV,patient 39,Value for GSM1253065: Convalescent Patient 39; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253066,GSM1253066,Dengue virus,Convalescent,CONV,patient 41,Value for GSM1253066: Convalescent Patient 41; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253067,GSM1253067,Dengue virus,Convalescent,CONV,patient 44,Value for GSM1253067: Convalescent Patient 44; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253068,GSM1253068,Dengue virus,Convalescent,CONV,patient 45,Value for GSM1253068: Convalescent Patient 45; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253069,GSM1253069,Dengue virus,Convalescent,CONV,patient 47,Value for GSM1253069: Convalescent Patient 47; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253070,GSM1253070,Dengue virus,Convalescent,CONV,patient 48,Value for GSM1253070: Convalescent Patient 48; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253071,GSM1253071,Dengue virus,Convalescent,CONV,patient 49,Value for GSM1253071: Convalescent Patient 49; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253072,GSM1253072,Dengue virus,Convalescent,CONV,patient 54,Value for GSM1253072: Convalescent Patient 54; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253073,GSM1253073,Dengue virus,Convalescent,CONV,patient 55,Value for GSM1253073: Convalescent Patient 55; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253074,GSM1253074,Dengue virus,Convalescent,CONV,patient 80,Value for GSM1253074: Convalescent Patient 80; src: Whole Blood of Dengue infected patient at convalescent time point
+GSM1253032,GSM1253032,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 32,Value for GSM1253032: Dengue Hemorrhagic Fever Patient 32; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253034,GSM1253034,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 34,Value for GSM1253034: Dengue Hemorrhagic Fever Patient 34; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253039,GSM1253039,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 38,Value for GSM1253039: Dengue Hemorrhagic Fever Patient 38; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253040,GSM1253040,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 39,Value for GSM1253040: Dengue Hemorrhagic Fever Patient 39; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253041,GSM1253041,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 40,Value for GSM1253041: Dengue Hemorrhagic Fever Patient 40; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253046,GSM1253046,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 45,Value for GSM1253046: Dengue Hemorrhagic Fever Patient 45; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253048,GSM1253048,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 48,Value for GSM1253048: Dengue Hemorrhagic Fever Patient 48; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253049,GSM1253049,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 49,Value for GSM1253049: Dengue Hemorrhagic Fever Patient 49; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253052,GSM1253052,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 60,Value for GSM1253052: Dengue Hemorrhagic Fever Patient 60; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253037,GSM1253037,Dengue virus,Dengue Hemorrhagic Fever,DHF,patient 81,Value for GSM1253037: Dengue Hemorrhagic Fever Patient 81; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253028,GSM1253028,Dengue virus,Dengue Fever,DENV,patient 3,Value for GSM1253028: Dengue Fever Patient 3; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253029,GSM1253029,Dengue virus,Dengue Fever,DENV,patient 4,Value for GSM1253029: Dengue Fever Patient 4; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253030,GSM1253030,Dengue virus,Dengue Fever,DENV,patient 6,Value for GSM1253030: Dengue Fever Patient 6; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253031,GSM1253031,Dengue virus,Dengue Fever,DENV,patient 7,Value for GSM1253031: Dengue Fever Patient 7; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253033,GSM1253033,Dengue virus,Dengue Fever,DENV,patient 33,Value for GSM1253033: Dengue Fever Patient 33; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253035,GSM1253035,Dengue virus,Dengue Fever,DENV,patient 35,Value for GSM1253035: Dengue Fever Patient 35; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253036,GSM1253036,Dengue virus,Dengue Fever,DENV,patient 36,Value for GSM1253036: Dengue Fever Patient 36; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253038,GSM1253038,Dengue virus,Dengue Fever,DENV,patient 37,Value for GSM1253038: Dengue Fever Patient 37; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253042,GSM1253042,Dengue virus,Dengue Fever,DENV,patient 41,Value for GSM1253042: Dengue Fever Patient 41; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253045,GSM1253045,Dengue virus,Dengue Fever,DENV,patient 44,Value for GSM1253045: Dengue Fever Patient 44; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253043,GSM1253043,Dengue virus,Dengue Fever,DENV,patient 42,Value for GSM1253043: Dengue Fever Patient 42; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253044,GSM1253044,Dengue virus,Dengue Fever,DENV,patient 43,Value for GSM1253044: Dengue Fever Patient 43; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253047,GSM1253047,Dengue virus,Dengue Fever,DENV,patient 47,Value for GSM1253047: Dengue Fever Patient 47; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253050,GSM1253050,Dengue virus,Dengue Fever,DENV,patient 54,Value for GSM1253050: Dengue Fever Patient 54; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253051,GSM1253051,Dengue virus,Dengue Fever,DENV,patient 55,Value for GSM1253051: Dengue Fever Patient 55; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253053,GSM1253053,Dengue virus,Dengue Fever,DENV,patient 66,Value for GSM1253053: Dengue Fever Patient 66; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253054,GSM1253054,Dengue virus,Dengue Fever,DENV,patient 68,Value for GSM1253054: Dengue Fever Patient 68; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253055,GSM1253055,Dengue virus,Dengue Fever,DENV,patient 80,Value for GSM1253055: Dengue Fever Patient 80; src: Whole Blood of Dengue infected patient at acute infection time point
+GSM1253079,GSM1253079,control,healthy control,CTRL,c1,Value for GSM1253079: Healthy control c1; src: Whole Blood of healthy control
+GSM1253083,GSM1253083,control,healthy control,CTRL,c2,Value for GSM1253083: Healthy control c2; src: Whole Blood of healthy control
+GSM1253075,GSM1253075,control,healthy control,CTRL,c3,Value for GSM1253075: Healthy control c3; src: Whole Blood of healthy control
+GSM1253077,GSM1253077,control,healthy control,CTRL,c4,Value for GSM1253077: Healthy control c4; src: Whole Blood of healthy control
+GSM1253076,GSM1253076,control,healthy control,CTRL,c5,Value for GSM1253076: Healthy control c5; src: Whole Blood of healthy control
+GSM1253078,GSM1253078,control,healthy control,CTRL,c6,Value for GSM1253078: Healthy control c6; src: Whole Blood of healthy control
+GSM1253081,GSM1253081,control,healthy control,CTRL,c7,Value for GSM1253081: Healthy control c7; src: Whole Blood of healthy control
+GSM1253080,GSM1253080,control,healthy control,CTRL,c8,Value for GSM1253080: Healthy control c8; src: Whole Blood of healthy control
+GSM1253082,GSM1253082,control,healthy control,CTRL,c9,Value for GSM1253082: Healthy control c9; src: Whole Blood of healthy control
